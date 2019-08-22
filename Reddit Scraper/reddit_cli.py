@@ -1,7 +1,7 @@
 import requests,praw,time,os
 from IPython.display import clear_output
 
-reddit=praw.Reddit(client_id='yourid',client_secret='yoursecret',user_agent='yourusername')
+reddit=praw.Reddit(client_id='xxxxxx',client_secret='xxxxxx',user_agent='xxxxxxx')
 
 while True:
 	i=1
